@@ -1,6 +1,5 @@
 from tkinter import *
 import math
-from PIL import Image, ImageTk
 
 root = Tk()
 root.title("Simple Calculator")
